@@ -5,4 +5,4 @@
 ---
 
 ### Список:
-* [Portfolio-CV - Bootstrap 5](portfolio-cv/)
+* [Portfolio-CV - Bootstrap 5](portfolio-cv/index.html)
